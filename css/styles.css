@@ -3,7 +3,7 @@ body {
   padding-left: 40px;
   padding-right: 40px;
   padding-bottom: 40px;
-  background: #e5e5e5;
+  background: #d0d7dc68;
   font-family: "Montserrat", sans-serif;
 }
 
@@ -35,10 +35,10 @@ body {
   color: #595959;
 }
 .about-me {
-  margin-bottom: 40px;
+  margin-bottom: 35px;
 }
 .sidebar {
-  background: #dfeeff;
+  background: #abe2f0;
   padding-top: 40px;
   padding-bottom: 40px;
 }
@@ -109,7 +109,7 @@ body {
   margin-bottom: 8px;
 }
 .my-projects {
-  margin-bottom: 44px;
+  margin-bottom: 40px;
 }
 .prj-item {
   font-style: normal;
