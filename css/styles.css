@@ -3,7 +3,8 @@ body {
   padding-left: 40px;
   padding-right: 40px;
   padding-bottom: 40px;
-  background: #d0d7dc68;
+
+  background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
   font-family: "Montserrat", sans-serif;
 }
 
@@ -38,7 +39,7 @@ body {
   margin-bottom: 35px;
 }
 .sidebar {
-  background: #bbe9f4;
+  background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
   padding-top: 40px;
   padding-bottom: 40px;
 }
